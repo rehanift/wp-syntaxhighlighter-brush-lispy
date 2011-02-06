@@ -1,0 +1,13 @@
+* Overview
+  This is a standalone plugin for Wordpress. It is designed to be used with the [[http://wordpress.org/extend/plugins/syntaxhighlighter/][SyntaxHighlighter Evolved]] Wordress plugin. It adds basic support for the Lisp family of languages (common lisp, emacs lisp, clojure, scheme).
+
+* Installation
+  - You must first have the SyntaxHighlighter Evolved Wordpress plugin installed.
+  - Place the contents of this repository within the Wordpress plugins directory.
+  - Activate the plugin from the Wordpress settings dashboard.
+
+* Attribution
+  This plugin relies entirely upon the work done by:
+  - [[http://alexgorbatchev.com/SyntaxHighlighter/][Alex Gorbatchev]] (author of SyntaxHighlighter)
+  - [[http://twitter.com/#!/Viper007Bond][@Viper007Bond]] (author of SyntaxHighlighter Evolved Wordpress Plugin)
+  - [[https://github.com/knuthaug][Knut Haugen]] (author of SyntaxHighlighter Lisp Brush)
